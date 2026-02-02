@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 619879560, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
   m_Name: EditorData
   m_EditorClassIdentifier: 
-  lastProject: {fileID: 0}
+  lastProject: {fileID: 11400000, guid: 043d926103435cb4980301aef4df6a3c, type: 2}
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 0
-  subSection: 0
+  section: 7
+  subSection: 5
   tabIndex: 0
-  scrollY: 0
+  scrollY: 300
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -29,7 +29,7 @@ MonoBehaviour:
   jumpListDrag: 250
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
-  createBackup: 1
+  createBackup: 0
   updateSchematics: 1
   schematicUpdateFolder: 
   updatePrefabs: 0
